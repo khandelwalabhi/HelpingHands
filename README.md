@@ -13,16 +13,16 @@ A wholesome application to deal with all tasks not just by enlisting them rather
 ## Preview Screenshots
 
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148748840-15ea40de-e925-40f3-b91f-2ca321e0ccf4.png" align="left" height="450" width="250" ></a>
-<a href="url"><img src="https://user-images.githubusercontent.com/77115663/148749760-1c19ae0f-c5b6-47aa-9713-390212a17b42.png" align="center" height="450" width="250" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/77115663/148751921-3204e782-258a-4cb4-b3b2-13009b76b0f3.png" align="center" height="450" width="250" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148749588-ff8dcf1c-ee42-4141-b4ed-26032ad0961c.png" align="center" height="450" width="250" ></a>
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/77115663/148751921-3204e782-258a-4cb4-b3b2-13009b76b0f3.png" align="center" height="450" width="250" ></a>
+
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148752181-20232fb0-87a2-4dff-a250-7eccc0128ca6.png" align="center" height="450" width="250" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148752184-6c64af33-5d42-4a25-883a-a076f5b98692.png" align="center" height="450" width="250" ></a>
-
-
 <a href="url"><img src="https://user-images.githubusercontent.com/57085508/148761093-94900609-ba07-413d-91b8-a6d0fbf5e6ce.png" align="center" height="450" width="250" ></a>
+
+
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148752668-e39cc417-895a-49b9-869e-21f9151afba7.png" align="center" height="450" width="250" ></a>
 <a href="url"><img src="https://user-images.githubusercontent.com/77115663/148752670-2fb0d83d-31db-4a4e-9d93-5099cafc1835.png" align="center" height="450" width="250" ></a>
 

@@ -59,7 +59,8 @@ User can delete and update his task, He just need to swipe left & right for it. 
  We used android jetpack libraries in our app.
 
 * ### View Binding
- We used view binding in our app it allows us to more easily write code that interacts with views.
+ We used view binding in our app it allows us to more easily write code that interacts with views. 
+Binding is an imporatnt ascpect of Android Applications
 
 
 ## Future Scope :
